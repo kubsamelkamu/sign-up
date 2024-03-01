@@ -8,7 +8,6 @@ body {
     min-height: 100vh;
     background-color: #c7c3c3;
 }
-
 .container {
     background-color: #f5f2f2;
     padding: 30px;
@@ -31,12 +30,10 @@ h1 {
 .form-group {
     margin-bottom: 15px;
 }
-
 label {
     display: block;
     margin-bottom: 5px;
 }
-
 input {
     padding: 10px;
     border: 1px solid #ccc;
@@ -53,7 +50,6 @@ input:focus{
     border-width: 4px;
 }
 
-
 .checkbox-group {
     display: flex;
     align-items: center;
@@ -65,7 +61,7 @@ input:focus{
 }
 
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50; 
     color: white;
     padding: 10px 20px;
     border: none;
